@@ -44,6 +44,8 @@
 		CBECA14898B643459F6D7CB7 /* CDVConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = B958B5B2A25A44189A4A2129 /* CDVConnection.m */; };
 		78C293920D524119B85A4390 /* CDVReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 863173F06AAC4B8DAEC3DB7E /* CDVReachability.m */; };
 		B356CF168A4547EEBC567A07 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 89610CDD1CF84983B8EFA6B1 /* SystemConfiguration.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		8D26E9BF09354E38BBF00E1B /* CDVDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A921AF9BC5444B08914550E /* CDVDevice.m */; };
+		55BEC0437B7E433DB974F0E0 /* CDVLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = F27893B1773D416AAB927446 /* CDVLogger.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -117,6 +119,10 @@
 		001C14DF1C5141D3AFA26509 /* CDVConnection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVConnection.h"; path = "org.apache.cordova.network-information/CDVConnection.h"; sourceTree = "<group>"; fileEncoding = 4; };
 		9FD2E9F783FB4808A9778DC2 /* CDVReachability.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVReachability.h"; path = "org.apache.cordova.network-information/CDVReachability.h"; sourceTree = "<group>"; fileEncoding = 4; };
 		89610CDD1CF84983B8EFA6B1 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "SystemConfiguration.framework"; path = "System/Library/Frameworks/SystemConfiguration.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
+		5A921AF9BC5444B08914550E /* CDVDevice.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVDevice.m"; path = "org.apache.cordova.device/CDVDevice.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		3394340E35FF4E338C396871 /* CDVDevice.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVDevice.h"; path = "org.apache.cordova.device/CDVDevice.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		F27893B1773D416AAB927446 /* CDVLogger.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVLogger.m"; path = "org.apache.cordova.console/CDVLogger.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		AFDB5109840F47859082A723 /* CDVLogger.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVLogger.h"; path = "org.apache.cordova.console/CDVLogger.h"; sourceTree = "<group>"; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -248,6 +254,10 @@
 				863173F06AAC4B8DAEC3DB7E /* CDVReachability.m */,
 				001C14DF1C5141D3AFA26509 /* CDVConnection.h */,
 				9FD2E9F783FB4808A9778DC2 /* CDVReachability.h */,
+				5A921AF9BC5444B08914550E /* CDVDevice.m */,
+				3394340E35FF4E338C396871 /* CDVDevice.h */,
+				F27893B1773D416AAB927446 /* CDVLogger.m */,
+				AFDB5109840F47859082A723 /* CDVLogger.h */,
 			);
 			name = Plugins;
 			path = "Audero Feed Reader/Plugins";
@@ -446,6 +456,8 @@
 				B205C2D2FEB04E4D85F3C615 /* CDVNotification.m in Sources */,
 				CBECA14898B643459F6D7CB7 /* CDVConnection.m in Sources */,
 				78C293920D524119B85A4390 /* CDVReachability.m in Sources */,
+				8D26E9BF09354E38BBF00E1B /* CDVDevice.m in Sources */,
+				55BEC0437B7E433DB974F0E0 /* CDVLogger.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -73,3 +73,99 @@ You could find it at the following address https://developer.apple.com/icloud/do
 2014-09-03 00:20:56.711 Audero Feed Reader[1288:70b] Finished load of: http://aurelio.audero.it/projects
 2014-09-03 00:20:57.774 Audero Feed Reader[1288:70b] Resetting plugins due to page load.
 2014-09-03 00:20:58.695 Audero Feed Reader[1288:70b] Finished load of: http://aurelio.audero.it/books
+2014-09-06 20:10:40.875 Audero Feed Reader[909:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 20:10:40.899 Audero Feed Reader[909:70b] Unlimited access to network resources
+2014-09-06 20:10:40.903 Audero Feed Reader[909:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 20:10:41.249 Audero Feed Reader[909:70b] Resetting plugins due to page load.
+2014-09-06 20:10:41.762 Audero Feed Reader[909:70b] Finished load of: file:///Users/mattgriffin/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/059044FE-6142-4E3D-BD8D-F6345D5CFABF/Audero%20Feed%20Reader.app/www/index.html
+2014-09-06 20:13:35.413 Audero Feed Reader[909:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:13:35.413 Audero Feed Reader[909:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:13:38.959 Audero Feed Reader[909:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:13:38.959 Audero Feed Reader[909:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:13:42.619 Audero Feed Reader[909:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:13:42.619 Audero Feed Reader[909:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:17:13.910 Audero Feed Reader[909:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:17:13.910 Audero Feed Reader[909:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:17:19.360 Audero Feed Reader[909:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:17:19.360 Audero Feed Reader[909:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+Terminating in response to SpringBoard's termination.
+2014-09-06 20:17:43.497 Audero Feed Reader[1145:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 20:17:43.505 Audero Feed Reader[1145:70b] Unlimited access to network resources
+2014-09-06 20:17:43.508 Audero Feed Reader[1145:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 20:17:43.633 Audero Feed Reader[1145:70b] Resetting plugins due to page load.
+2014-09-06 20:17:43.986 Audero Feed Reader[1145:70b] Finished load of: file:///Users/mattgriffin/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/059044FE-6142-4E3D-BD8D-F6345D5CFABF/Audero%20Feed%20Reader.app/www/index.html
+2014-09-06 20:18:27.306 Audero Feed Reader[1145:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:18:27.306 Audero Feed Reader[1145:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:18:30.825 Audero Feed Reader[1145:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:18:30.825 Audero Feed Reader[1145:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:18:32.357 Audero Feed Reader[1145:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:18:32.357 Audero Feed Reader[1145:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:22:40.865 Audero Feed Reader[1306:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 20:22:40.873 Audero Feed Reader[1306:70b] Unlimited access to network resources
+2014-09-06 20:22:40.876 Audero Feed Reader[1306:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 20:22:41.021 Audero Feed Reader[1306:70b] Resetting plugins due to page load.
+2014-09-06 20:22:41.503 Audero Feed Reader[1306:70b] Finished load of: file:///Users/mattgriffin/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/059044FE-6142-4E3D-BD8D-F6345D5CFABF/Audero%20Feed%20Reader.app/www/index.html
+2014-09-06 20:22:46.784 Audero Feed Reader[1306:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:22:46.784 Audero Feed Reader[1306:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+Terminating in response to SpringBoard's termination.
+2014-09-06 20:42:32.312 Audero Feed Reader[1758:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 20:42:32.320 Audero Feed Reader[1758:70b] Unlimited access to network resources
+2014-09-06 20:42:32.323 Audero Feed Reader[1758:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 20:42:32.457 Audero Feed Reader[1758:70b] Resetting plugins due to page load.
+2014-09-06 20:42:33.172 Audero Feed Reader[1758:70b] Finished load of: file:///Users/mattgriffin/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/059044FE-6142-4E3D-BD8D-F6345D5CFABF/Audero%20Feed%20Reader.app/www/index.html
+2014-09-06 20:42:38.936 Audero Feed Reader[1758:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:42:38.937 Audero Feed Reader[1758:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:42:44.350 Audero Feed Reader[1758:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:42:44.350 Audero Feed Reader[1758:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+Terminating in response to SpringBoard's termination.
+2014-09-06 20:44:49.797 Audero Feed Reader[1990:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 20:44:49.805 Audero Feed Reader[1990:70b] Unlimited access to network resources
+2014-09-06 20:44:49.808 Audero Feed Reader[1990:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 20:44:49.930 Audero Feed Reader[1990:70b] Resetting plugins due to page load.
+2014-09-06 20:44:50.594 Audero Feed Reader[1990:70b] Finished load of: file:///Users/mattgriffin/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/059044FE-6142-4E3D-BD8D-F6345D5CFABF/Audero%20Feed%20Reader.app/www/index.html
+2014-09-06 20:44:58.605 Audero Feed Reader[1990:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:44:58.606 Audero Feed Reader[1990:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:45:22.843 Audero Feed Reader[1990:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-09-06 20:45:22.843 Audero Feed Reader[1990:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+Terminating in response to SpringBoard's termination.
+2014-09-06 20:45:38.519 Audero Feed Reader[2223:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 20:45:38.527 Audero Feed Reader[2223:70b] Unlimited access to network resources
+2014-09-06 20:45:38.530 Audero Feed Reader[2223:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 20:45:38.657 Audero Feed Reader[2223:70b] Resetting plugins due to page load.
+2014-09-06 20:45:39.049 Audero Feed Reader[2223:70b] Finished load of: file:///Users/mattgriffin/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/059044FE-6142-4E3D-BD8D-F6345D5CFABF/Audero%20Feed%20Reader.app/www/index.html
